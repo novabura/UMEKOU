@@ -1,0 +1,62 @@
+body {
+    margin : 0;
+    background-color: aqua;
+}
+
+header{
+    position:relative;
+    padding-left: 100px;
+}
+
+nav{
+    position: absolute;
+    top: 0;
+    right:100px;
+}
+
+.list{
+    display:flex;
+    color: green;
+    list-style-type: none;
+    text-align: center;
+}
+.list{
+    color:red;
+    padding-right:50px;
+    font-weight: bold;
+    font-size:20px;
+}
+.img{
+    w:1000px;
+}
+
+.introductions{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.introduction{
+    display: flex;
+}
+.UMEKOU{
+    padding-left: 150px;
+    text-align: center;
+}
+.好きな食べ物たち{
+    padding-top: 50px;
+    text-align: center;
+}
+.好きな曲たち{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.好きなゲームたち{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.footer{
+    padding-top: 50px;
+    text-align: center;
+}
